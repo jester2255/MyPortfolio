@@ -1,0 +1,30 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "My Webdevelopment portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jester2255/MyPortfolio.git"
+  },
+  "keywords": [
+    "N/A"
+  ],
+  "author": "Philip Dunn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jester2255/MyPortfolio/issues"
+  },
+  "homepage": "https://github.com/jester2255/MyPortfolio#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bootstrap": "^4.0.0",
+    "express": "^4.16.2",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0"
+  }
+}
