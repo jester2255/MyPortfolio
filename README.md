@@ -1,2 +1,3 @@
 # MyPortfolio
-A portfolio for me
+A portfolio to show the skills that I have obtained
+
