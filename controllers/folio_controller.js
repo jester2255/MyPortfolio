@@ -7,7 +7,7 @@
 var express = require("express");
 var router = express.Router();
 var connection = require("../config/connection.js");
-var burgers = require("../models/burger.js")
+var burgers = require("../models/potfol.js")
 
 //get the burgers
 router.get("/", function(req, res) {
